@@ -6,6 +6,6 @@ This is my ode to learning more of the beauty of Biology!
 
 
 
-Credits to the following papers and resources for helipng me learn:-
+Credits to the following papers and resources for helping me learn:-
 
 [1] Kowalewski, J. (2007). Mathematical models in Cellular Biophysics (By KTH AlbaNova University Center) [Licentiate Thesis, KTH AlbaNova University Center]. https://www.diva-portal.org/smash/get/diva2:11961/FULLTEXT01.pdf
